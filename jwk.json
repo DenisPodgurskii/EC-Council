@@ -1,0 +1,6 @@
+{
+  "e": "AQAB",
+  "kty": "RSA",
+  "n": "2bXZnz3dfKun88jdNRTgkZW4qza0RqInUnadxph4bZ96a60HCoQMbjOjSkZyKYsJkanwAdgJv-a5PsOOxLaEvZoq6Zp-lkoRK78NjN0m8UnbiMVwkpSKVZyumyaZEgedU7YNjmtfMmymQluE-6P8mcx4XyMRmghKogPnt8DdgkToW1XoLgEWWh__Eu2bJnCzdy91eLpWsF4A_cUtHG-nTRQFQOMC94jcmpI72foP9fMvG9eirFlIt3Hn1IOoasxRgTlUrbZUd4tfN3joNEymzCCitXthDXRjGWL_LH_q7SGyeRCmLa4EV28e7CjsjNqBhopv8FMS48IBQHzbi847LQ",
+  "kid": "ptk_jwt_inspector"
+}
